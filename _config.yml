@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     
 zhihu_username:     yang-can-3-23
-github_username:    qiubaiying
-#facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+github_username:    yangcan29
+#facebook_username:  
+jianshu_username:   ffd857093cbc
+#twitter_username:   
 
 
 
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/ffd857093cbc"
     },{
         title: "Apple",
         href: "https://apple.com"
