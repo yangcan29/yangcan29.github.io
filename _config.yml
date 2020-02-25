@@ -2,8 +2,8 @@
 title: YC BLOG
 SEOTitle: 杨灿的博客 | YC Blog
 header-img: img/post-bg-desk.jpg
-#email: youName@gmail.com
-description: "书山有路勤为径"
+email: yangcan29@foxmail.com
+description: "123,上山打老虎！"
 keyword: "YC, YC Blog, 杨灿的博客, yangcan, 杨灿"
 url: "http://yangcan29.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/yangcan29/yangcan29.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "You are more than what you have become!"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
