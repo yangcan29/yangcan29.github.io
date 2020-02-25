@@ -1,7 +1,7 @@
 # Site settings
 title: YC BLOG
 SEOTitle: 杨灿的博客 | YC Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-hacker.jpg
 email: yangcan29@foxmail.com
 description: "123,上山打老虎！"
 keyword: "YC, YC Blog, 杨灿的博客, yangcan, 杨灿"
@@ -86,7 +86,7 @@ kramdown:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
