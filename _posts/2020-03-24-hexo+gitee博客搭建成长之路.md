@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      hexo+gitee博客搭建成长之路
 subtitle:   部署在gitee上的博客
